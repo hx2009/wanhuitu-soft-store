@@ -1,0 +1,1550 @@
+[
+  {
+    "id": "vscode",
+    "name": "Visual Studio Code",
+    "developer": "Microsoft",
+    "category": "开发",
+    "icon": "Code",
+    "iconGradient": "from-sky-400 to-cyan-400",
+    "iconImage": "icons/vscode.png",
+    "rating": 4.9,
+    "ratingCount": 1280000,
+    "downloads": "2.8 亿",
+    "size": "120 MB",
+    "version": "1.105.0",
+    "description": "微软出品的轻量级代码编辑器",
+    "longDescription": "Visual Studio Code 是一款免费、开源的现代化代码编辑器，内置智能感知、调试、版本控制等能力，通过丰富的扩展生态可以适配几乎所有开发语言和工作流，是全球开发者使用最广泛的编辑器之一。",
+    "features": [
+      "智能代码补全与建议",
+      "内置 Git 版本控制",
+      "集成终端与调试器",
+      "海量扩展插件市场",
+      "跨平台支持 Windows / macOS / Linux"
+    ],
+    "tags": [
+      "编辑器",
+      "开源",
+      "跨平台",
+      "免费"
+    ],
+    "systemRequirements": [
+      "Windows 10 / 11（64 位）",
+      "1.6 GHz 或更快的处理器",
+      "1 GB 内存以上"
+    ],
+    "releaseDate": "2026-08-12",
+    "updateLog": [
+      {
+        "version": "1.105.0",
+        "date": "2026-08-12",
+        "notes": [
+          "优化编辑器启动速度",
+          "新增 AI 代码建议增强",
+          "修复多处稳定性问题"
+        ]
+      },
+      {
+        "version": "1.103.0",
+        "date": "2026-06-18",
+        "notes": [
+          "改进终端多标签体验",
+          "提升大文件渲染性能"
+        ]
+      }
+    ],
+    "screenshots": [
+      {
+        "url": "/uploads/1790246162563-180960.png",
+        "title": "17a2fae5abe39d27055154e97a838da7"
+      },
+      {
+        "url": "/uploads/1790246162581-16278.png",
+        "title": "619a50bf441cdeefa0254c6c3bac25bd"
+      },
+      {
+        "url": "/uploads/1790246162578-180820.png",
+        "title": "d9f0e2007bb408a8e05b82e2e52d7ff8"
+      },
+      {
+        "url": "/uploads/1790246162583-383036.png",
+        "title": "c6268bc59051d784fc433668a5bc2e41"
+      }
+    ],
+    "isHot": true,
+    "isNew": false,
+    "isFeatured": true,
+    "isCurated": true
+  },
+  {
+    "id": "git",
+    "name": "Git",
+    "developer": "Git Project",
+    "category": "开发",
+    "icon": "GitBranch",
+    "iconGradient": "from-orange-400 to-amber-300",
+    "iconImage": "icons/git.png",
+    "rating": 4.8,
+    "ratingCount": 960000,
+    "downloads": "1.9 亿",
+    "size": "65 MB",
+    "version": "2.50.1",
+    "description": "分布式版本控制系统",
+    "longDescription": "Git 是目前最流行的分布式版本控制系统，支持分支管理、多人协作、代码合并等核心能力，是软件开发和团队协作的基础设施，几乎所有主流代码托管平台都基于 Git。",
+    "features": [
+      "分布式版本管理",
+      "强大的分支与合并",
+      "本地提交与离线操作",
+      "与 GitHub / GitLab 无缝集成"
+    ],
+    "tags": [
+      "版本控制",
+      "开源",
+      "命令行"
+    ],
+    "systemRequirements": [
+      "Windows 10 / 11（64 位）",
+      "256 MB 内存以上"
+    ],
+    "releaseDate": "2026-07-30",
+    "updateLog": [
+      {
+        "version": "2.50.1",
+        "date": "2026-07-30",
+        "notes": [
+          "修复稀疏检出相关问题",
+          "改进 Windows 下性能"
+        ]
+      },
+      {
+        "version": "2.48.0",
+        "date": "2026-03-10",
+        "notes": [
+          "新增凭证管理器增强"
+        ]
+      }
+    ],
+    "screenshots": [
+      {
+        "title": "命令行操作",
+        "gradient": "from-orange-400/60 to-amber-300/60"
+      },
+      {
+        "title": "分支管理",
+        "gradient": "from-amber-400/60 to-yellow-300/60"
+      },
+      {
+        "title": "协作流程",
+        "gradient": "from-orange-300/60 to-rose-300/60"
+      }
+    ],
+    "isHot": true
+  },
+  {
+    "id": "python",
+    "name": "Python",
+    "developer": "Python Software Foundation",
+    "category": "开发",
+    "icon": "Braces",
+    "iconGradient": "from-blue-400 to-sky-400",
+    "iconImage": "icons/python.png",
+    "rating": 4.9,
+    "ratingCount": 1520000,
+    "downloads": "3.1 亿",
+    "size": "30 MB",
+    "version": "3.14.2",
+    "description": "简洁优雅的通用编程语言",
+    "longDescription": "Python 是一种易学易用的高级编程语言，凭借简洁的语法和庞大的生态，在数据分析、人工智能、Web 开发、自动化脚本等领域广泛应用，是入门编程的首选语言。",
+    "features": [
+      "语法简洁易上手",
+      "丰富的标准库",
+      "AI 与数据分析生态",
+      "跨平台运行"
+    ],
+    "tags": [
+      "编程语言",
+      "开源",
+      "AI"
+    ],
+    "systemRequirements": [
+      "Windows 10 / 11（64 位）",
+      "1 GB 内存以上"
+    ],
+    "releaseDate": "2026-07-22",
+    "updateLog": [
+      {
+        "version": "3.14.2",
+        "date": "2026-07-22",
+        "notes": [
+          "修复安全漏洞",
+          "性能优化"
+        ]
+      },
+      {
+        "version": "3.13.5",
+        "date": "2026-02-14",
+        "notes": [
+          "改进解释器稳定性"
+        ]
+      }
+    ],
+    "screenshots": [
+      {
+        "title": "交互式解释器",
+        "gradient": "from-blue-400/60 to-sky-300/70"
+      },
+      {
+        "title": "代码示例",
+        "gradient": "from-sky-400/60 to-indigo-300/60"
+      },
+      {
+        "title": "包管理",
+        "gradient": "from-indigo-400/60 to-blue-300/60"
+      }
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "nodejs",
+    "name": "Node.js",
+    "developer": "OpenJS Foundation",
+    "category": "开发",
+    "icon": "Boxes",
+    "iconGradient": "from-green-400 to-emerald-400",
+    "iconImage": "icons/nodejs.png",
+    "rating": 4.7,
+    "ratingCount": 820000,
+    "downloads": "1.6 亿",
+    "size": "35 MB",
+    "version": "24.10.0",
+    "description": "JavaScript 运行时环境",
+    "longDescription": "Node.js 基于 V8 引擎构建，让 JavaScript 可以运行在服务端，支持异步 I/O 与海量并发，配合 npm 生态可以快速构建 Web 服务、命令行工具和桌面应用后端。",
+    "features": [
+      "异步非阻塞 I/O",
+      "npm 包管理生态",
+      "适合构建 API 服务",
+      "前后端同语言开发"
+    ],
+    "tags": [
+      "运行时",
+      "JavaScript",
+      "开源"
+    ],
+    "systemRequirements": [
+      "Windows 10 / 11（64 位）",
+      "256 MB 内存以上"
+    ],
+    "releaseDate": "2026-06-05",
+    "updateLog": [
+      {
+        "version": "24.10.0",
+        "date": "2026-06-05",
+        "notes": [
+          "引入新的 API 改进",
+          "安全更新"
+        ]
+      },
+      {
+        "version": "22.16.0",
+        "date": "2026-01-20",
+        "notes": [
+          "长期支持版本更新"
+        ]
+      }
+    ],
+    "screenshots": [
+      {
+        "title": "命令行工具",
+        "gradient": "from-green-400/60 to-emerald-300/60"
+      },
+      {
+        "title": "npm 生态",
+        "gradient": "from-emerald-400/60 to-teal-300/60"
+      },
+      {
+        "title": "服务开发",
+        "gradient": "from-teal-400/60 to-green-300/60"
+      }
+    ],
+    "isNew": true
+  },
+  {
+    "id": "notepadpp",
+    "name": "Notepad++",
+    "developer": "Don Ho",
+    "category": "实用工具",
+    "icon": "FileText",
+    "iconGradient": "from-green-400 to-lime-400",
+    "iconImage": "icons/notepadpp.png",
+    "rating": 4.8,
+    "ratingCount": 730000,
+    "downloads": "1.2 亿",
+    "size": "5 MB",
+    "version": "8.8.5",
+    "description": "轻量强大的文本编辑器",
+    "longDescription": "Notepad++ 是一款免费开源的文本编辑器，体积小巧、启动迅速，支持语法高亮、宏录制、插件扩展，是 Windows 上处理文本、代码和日志的经典工具。",
+    "features": [
+      "体积小启动快",
+      "支持数十种语言高亮",
+      "多标签与分屏编辑",
+      "插件生态丰富"
+    ],
+    "tags": [
+      "文本编辑",
+      "开源",
+      "轻量"
+    ],
+    "systemRequirements": [
+      "Windows 10 / 11（32/64 位）",
+      "128 MB 内存以上"
+    ],
+    "releaseDate": "2026-07-15",
+    "updateLog": [
+      {
+        "version": "8.8.5",
+        "date": "2026-07-15",
+        "notes": [
+          "修复已知问题",
+          "增强暗色模式"
+        ]
+      },
+      {
+        "version": "8.7.1",
+        "date": "2026-02-08",
+        "notes": [
+          "界面细节优化"
+        ]
+      }
+    ],
+    "screenshots": [
+      {
+        "title": "编辑界面",
+        "gradient": "from-green-400/60 to-lime-300/60"
+      },
+      {
+        "title": "语法高亮",
+        "gradient": "from-lime-400/60 to-emerald-300/60"
+      },
+      {
+        "title": "插件管理",
+        "gradient": "from-emerald-400/60 to-green-300/60"
+      }
+    ],
+    "isHot": true
+  },
+  {
+    "id": "7zip",
+    "name": "7-Zip",
+    "developer": "Igor Pavlov",
+    "category": "压缩",
+    "icon": "Archive",
+    "iconGradient": "from-amber-400 to-orange-300",
+    "iconImage": "icons/7zip.png",
+    "rating": 4.9,
+    "ratingCount": 890000,
+    "downloads": "2.4 亿",
+    "size": "1.5 MB",
+    "version": "25.00",
+    "description": "高压缩率开源压缩软件",
+    "longDescription": "7-Zip 是一款开源免费的压缩软件，拥有极高的压缩率，支持 7z、ZIP、RAR 等数十种格式，集成到右键菜单中即点即用，是 Windows 装机必备工具。",
+    "features": [
+      "超高压缩率",
+      "支持数十种格式",
+      "集成右键菜单",
+      "开源免费"
+    ],
+    "tags": [
+      "压缩",
+      "开源",
+      "免费"
+    ],
+    "systemRequirements": [
+      "Windows 10 / 11（32/64 位）",
+      "64 MB 内存以上"
+    ],
+    "releaseDate": "2026-06-20",
+    "updateLog": [
+      {
+        "version": "25.00",
+        "date": "2026-06-20",
+        "notes": [
+          "新增格式支持",
+          "提升压缩速度"
+        ]
+      },
+      {
+        "version": "24.09",
+        "date": "2025-11-11",
+        "notes": [
+          "安全修复"
+        ]
+      }
+    ],
+    "screenshots": [
+      {
+        "title": "压缩界面",
+        "gradient": "from-amber-400/60 to-orange-300/60"
+      },
+      {
+        "title": "格式支持",
+        "gradient": "from-orange-400/60 to-yellow-300/60"
+      },
+      {
+        "title": "右键菜单",
+        "gradient": "from-yellow-400/60 to-amber-300/60"
+      }
+    ],
+    "isHot": true,
+    "isCurated": true
+  },
+  {
+    "id": "winrar",
+    "name": "WinRAR",
+    "developer": "RARLAB",
+    "category": "压缩",
+    "icon": "Package",
+    "iconGradient": "from-emerald-400 to-teal-400",
+    "iconImage": "icons/winrar.png",
+    "rating": 4.7,
+    "ratingCount": 540000,
+    "downloads": "1.1 亿",
+    "size": "3.5 MB",
+    "version": "7.10",
+    "description": "老牌压缩管理工具",
+    "longDescription": "WinRAR 是经典的压缩解压软件，完整支持 RAR 与 ZIP 格式，具备分卷压缩、加密保护和修复受损压缩包等高级能力，界面直观、操作简单。",
+    "features": [
+      "完整 RAR 支持",
+      "分卷压缩与加密",
+      "压缩包修复",
+      "多语言界面"
+    ],
+    "tags": [
+      "压缩",
+      "RAR",
+      "商业软件"
+    ],
+    "systemRequirements": [
+      "Windows 10 / 11（32/64 位）",
+      "128 MB 内存以上"
+    ],
+    "releaseDate": "2026-05-02",
+    "updateLog": [
+      {
+        "version": "7.10",
+        "date": "2026-05-02",
+        "notes": [
+          "支持新版 RAR5 增强",
+          "界面现代化"
+        ]
+      },
+      {
+        "version": "7.01",
+        "date": "2025-10-15",
+        "notes": [
+          "稳定性改进"
+        ]
+      }
+    ],
+    "screenshots": [
+      {
+        "title": "主界面",
+        "gradient": "from-emerald-400/60 to-teal-300/60"
+      },
+      {
+        "title": "压缩选项",
+        "gradient": "from-teal-400/60 to-cyan-300/60"
+      },
+      {
+        "title": "分卷设置",
+        "gradient": "from-cyan-400/60 to-emerald-300/60"
+      }
+    ]
+  },
+  {
+    "id": "obs",
+    "name": "OBS Studio",
+    "developer": "OBS Project",
+    "category": "视频",
+    "icon": "MonitorPlay",
+    "iconGradient": "from-slate-500 to-slate-600",
+    "iconImage": "icons/obs.png",
+    "rating": 4.8,
+    "ratingCount": 680000,
+    "downloads": "9800 万",
+    "size": "120 MB",
+    "version": "31.2.1",
+    "description": "专业级直播与录屏软件",
+    "longDescription": "OBS Studio 是一款免费开源的直播推流与屏幕录制软件，支持多场景切换、实时混音、滤镜特效，是主播、UP 主和在线教学的常用工具。",
+    "features": [
+      "多场景自由切换",
+      "支持 RTMP 推流",
+      "高性能录屏编码",
+      "插件与滤镜丰富"
+    ],
+    "tags": [
+      "直播",
+      "录屏",
+      "开源",
+      "免费"
+    ],
+    "systemRequirements": [
+      "Windows 10 / 11（64 位）",
+      "4 GB 内存",
+      "支持硬件编码的显卡"
+    ],
+    "releaseDate": "2026-08-01",
+    "updateLog": [
+      {
+        "version": "31.2.1",
+        "date": "2026-08-01",
+        "notes": [
+          "改进 NVENC 编码",
+          "修复崩溃问题"
+        ]
+      },
+      {
+        "version": "31.0.0",
+        "date": "2026-04-22",
+        "notes": [
+          "全新界面主题支持"
+        ]
+      }
+    ],
+    "screenshots": [
+      {
+        "title": "直播界面",
+        "gradient": "from-slate-500/60 to-slate-400/60"
+      },
+      {
+        "title": "场景编辑",
+        "gradient": "from-slate-600/60 to-zinc-500/60"
+      },
+      {
+        "title": "推流设置",
+        "gradient": "from-zinc-500/60 to-slate-400/60"
+      }
+    ],
+    "isHot": true
+  },
+  {
+    "id": "vlc",
+    "name": "VLC Media Player",
+    "developer": "VideoLAN",
+    "category": "视频",
+    "icon": "Clapperboard",
+    "iconGradient": "from-orange-400 to-amber-300",
+    "iconImage": "icons/vlc.png",
+    "rating": 4.8,
+    "ratingCount": 910000,
+    "downloads": "3.2 亿",
+    "size": "40 MB",
+    "version": "3.0.21",
+    "description": "全能开源媒体播放器",
+    "longDescription": "VLC 是一款开源的全能媒体播放器，几乎能播放所有音视频格式而无需额外解码器，支持网络串流、字幕加载和音视频转换，广受全球用户信赖。",
+    "features": [
+      "支持几乎所有格式",
+      "无需安装解码器",
+      "网络流媒体播放",
+      "音视频转换"
+    ],
+    "tags": [
+      "播放器",
+      "开源",
+      "跨平台"
+    ],
+    "systemRequirements": [
+      "Windows 10 / 11（32/64 位）",
+      "512 MB 内存以上"
+    ],
+    "releaseDate": "2026-07-08",
+    "updateLog": [
+      {
+        "version": "3.0.21",
+        "date": "2026-07-08",
+        "notes": [
+          "安全更新",
+          "改进 HDR 播放"
+        ]
+      },
+      {
+        "version": "3.0.20",
+        "date": "2026-01-15",
+        "notes": [
+          "修复若干解码问题"
+        ]
+      }
+    ],
+    "screenshots": [
+      {
+        "title": "播放界面",
+        "gradient": "from-orange-400/60 to-amber-300/60"
+      },
+      {
+        "title": "播放列表",
+        "gradient": "from-amber-400/60 to-yellow-300/60"
+      },
+      {
+        "title": "转换功能",
+        "gradient": "from-yellow-400/60 to-orange-300/60"
+      }
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "potplayer",
+    "name": "PotPlayer",
+    "developer": "Kakao",
+    "category": "视频",
+    "icon": "Play",
+    "iconGradient": "from-blue-500 to-indigo-400",
+    "iconImage": "icons/potplayer.png",
+    "rating": 4.9,
+    "ratingCount": 620000,
+    "downloads": "8900 万",
+    "size": "35 MB",
+    "version": "250801",
+    "description": "功能强大的视频播放器",
+    "longDescription": "PotPlayer 以强大的解码能力和丰富的设置著称，支持硬件加速、倍速播放、实时字幕搜索和各类皮肤，是高画质观影用户的首选播放器。",
+    "features": [
+      "硬件加速解码",
+      "倍速与逐帧播放",
+      "在线字幕搜索",
+      "自定义皮肤"
+    ],
+    "tags": [
+      "播放器",
+      "高画质",
+      "免费"
+    ],
+    "systemRequirements": [
+      "Windows 10 / 11（32/64 位）",
+      "2 GB 内存",
+      "支持硬解的显卡"
+    ],
+    "releaseDate": "2026-08-10",
+    "updateLog": [
+      {
+        "version": "250801",
+        "date": "2026-08-10",
+        "notes": [
+          "新增解码器支持",
+          "界面优化"
+        ]
+      },
+      {
+        "version": "250212",
+        "date": "2026-02-12",
+        "notes": [
+          "修复字幕同步问题"
+        ]
+      }
+    ],
+    "screenshots": [
+      {
+        "title": "播放界面",
+        "gradient": "from-blue-500/60 to-indigo-400/60"
+      },
+      {
+        "title": "视频设置",
+        "gradient": "from-indigo-400/60 to-blue-300/60"
+      },
+      {
+        "title": "字幕功能",
+        "gradient": "from-blue-400/60 to-cyan-300/60"
+      }
+    ],
+    "isCurated": true
+  },
+  {
+    "id": "chrome",
+    "name": "Google Chrome",
+    "developer": "Google",
+    "category": "浏览器",
+    "icon": "Globe",
+    "iconGradient": "from-sky-400 to-indigo-400",
+    "iconImage": "icons/chrome.png",
+    "rating": 4.7,
+    "ratingCount": 1840000,
+    "downloads": "5.6 亿",
+    "size": "110 MB",
+    "version": "145.0.3",
+    "description": "全球使用最广的浏览器",
+    "longDescription": "Google Chrome 以快速、稳定和安全著称，拥有强大的扩展生态和流畅的同步体验，与 Google 服务深度集成，是全球市场份额第一的浏览器。",
+    "features": [
+      "极速渲染引擎",
+      "海量扩展应用",
+      "跨设备同步",
+      "内置安全防护"
+    ],
+    "tags": [
+      "浏览器",
+      "快速",
+      "同步"
+    ],
+    "systemRequirements": [
+      "Windows 10 / 11（64 位）",
+      "2 GB 内存以上"
+    ],
+    "releaseDate": "2026-08-18",
+    "updateLog": [
+      {
+        "version": "145.0.3",
+        "date": "2026-08-18",
+        "notes": [
+          "安全更新",
+          "性能提升"
+        ]
+      },
+      {
+        "version": "143.0.2",
+        "date": "2026-06-11",
+        "notes": [
+          "改进内存占用"
+        ]
+      }
+    ],
+    "screenshots": [
+      {
+        "title": "浏览界面",
+        "gradient": "from-sky-400/60 to-indigo-300/60"
+      },
+      {
+        "title": "扩展中心",
+        "gradient": "from-indigo-400/60 to-sky-300/60"
+      },
+      {
+        "title": "同步设置",
+        "gradient": "from-blue-400/60 to-indigo-300/60"
+      }
+    ],
+    "isHot": true
+  },
+  {
+    "id": "edge",
+    "name": "Microsoft Edge",
+    "developer": "Microsoft",
+    "category": "浏览器",
+    "icon": "Compass",
+    "iconGradient": "from-teal-400 to-cyan-400",
+    "iconImage": "icons/edge.png",
+    "rating": 4.6,
+    "ratingCount": 720000,
+    "downloads": "1.8 亿",
+    "size": "180 MB",
+    "version": "145.0.1",
+    "description": "Windows 内置的现代浏览器",
+    "longDescription": "Microsoft Edge 基于 Chromium 内核，与 Windows 深度集成，内置 Copilot AI 助手、垂直标签页和效率工具，兼顾性能、安全与生产力。",
+    "features": [
+      "与 Windows 深度集成",
+      "内置 AI 助手",
+      "垂直标签页",
+      "省电高效"
+    ],
+    "tags": [
+      "浏览器",
+      "Windows",
+      "AI"
+    ],
+    "systemRequirements": [
+      "Windows 10 / 11（64 位）",
+      "2 GB 内存以上"
+    ],
+    "releaseDate": "2026-08-15",
+    "updateLog": [
+      {
+        "version": "145.0.1",
+        "date": "2026-08-15",
+        "notes": [
+          "AI 助手增强",
+          "安全更新"
+        ]
+      },
+      {
+        "version": "143.0.2",
+        "date": "2026-06-05",
+        "notes": [
+          "标签页管理优化"
+        ]
+      }
+    ],
+    "screenshots": [
+      {
+        "title": "浏览界面",
+        "gradient": "from-teal-400/60 to-cyan-300/60"
+      },
+      {
+        "title": "AI 助手",
+        "gradient": "from-cyan-400/60 to-teal-300/60"
+      },
+      {
+        "title": "效率工具",
+        "gradient": "from-teal-300/60 to-emerald-300/60"
+      }
+    ]
+  },
+  {
+    "id": "firefox",
+    "name": "Mozilla Firefox",
+    "developer": "Mozilla",
+    "category": "浏览器",
+    "icon": "Flame",
+    "iconGradient": "from-amber-400 to-orange-400",
+    "iconImage": "icons/firefox.png",
+    "rating": 4.7,
+    "ratingCount": 580000,
+    "downloads": "1.3 亿",
+    "size": "80 MB",
+    "version": "140.0.2",
+    "description": "注重隐私的开源浏览器",
+    "longDescription": "Firefox 是 Mozilla 推出的开源浏览器，以隐私保护著称，内置增强型跟踪防护，支持丰富的扩展和自定义能力，是注重数据安全的用户首选。",
+    "features": [
+      "增强型跟踪防护",
+      "开源透明",
+      "丰富扩展",
+      "多账户容器"
+    ],
+    "tags": [
+      "浏览器",
+      "隐私",
+      "开源"
+    ],
+    "systemRequirements": [
+      "Windows 10 / 11（64 位）",
+      "2 GB 内存以上"
+    ],
+    "releaseDate": "2026-07-28",
+    "updateLog": [
+      {
+        "version": "140.0.2",
+        "date": "2026-07-28",
+        "notes": [
+          "修复安全问题",
+          "性能改进"
+        ]
+      },
+      {
+        "version": "138.0",
+        "date": "2026-04-30",
+        "notes": [
+          "新隐私设置界面"
+        ]
+      }
+    ],
+    "screenshots": [
+      {
+        "title": "浏览界面",
+        "gradient": "from-amber-400/60 to-orange-300/60"
+      },
+      {
+        "title": "隐私防护",
+        "gradient": "from-orange-400/60 to-amber-300/60"
+      },
+      {
+        "title": "扩展管理",
+        "gradient": "from-amber-300/60 to-yellow-300/60"
+      }
+    ]
+  },
+  {
+    "id": "everything",
+    "name": "Everything",
+    "developer": "voidtools",
+    "category": "系统工具",
+    "icon": "Search",
+    "iconGradient": "from-cyan-400 to-sky-400",
+    "iconImage": "icons/everything.png",
+    "rating": 4.9,
+    "ratingCount": 460000,
+    "downloads": "7600 万",
+    "size": "1.7 MB",
+    "version": "1.5.0.1391a",
+    "description": "秒级搜索本地文件的工具",
+    "longDescription": "Everything 基于 NTFS 文件索引，能在数秒内完成全盘文件搜索，支持正则、通配符和高级筛选，是提升电脑使用效率的神器。",
+    "features": [
+      "毫秒级全盘搜索",
+      "支持正则表达式",
+      "占用资源极低",
+      "HTTP 服务共享"
+    ],
+    "tags": [
+      "文件搜索",
+      "轻量",
+      "效率"
+    ],
+    "systemRequirements": [
+      "Windows 10 / 11（32/64 位）",
+      "64 MB 内存以上"
+    ],
+    "releaseDate": "2026-06-30",
+    "updateLog": [
+      {
+        "version": "1.5.0.1391a",
+        "date": "2026-06-30",
+        "notes": [
+          "改进索引性能",
+          "新增筛选功能"
+        ]
+      },
+      {
+        "version": "1.4.1.1026",
+        "date": "2025-09-10",
+        "notes": [
+          "稳定版更新"
+        ]
+      }
+    ],
+    "screenshots": [
+      {
+        "title": "搜索界面",
+        "gradient": "from-cyan-400/60 to-sky-300/60"
+      },
+      {
+        "title": "高级筛选",
+        "gradient": "from-sky-400/60 to-cyan-300/60"
+      },
+      {
+        "title": "索引设置",
+        "gradient": "from-cyan-300/60 to-teal-300/60"
+      }
+    ],
+    "isHot": true,
+    "isCurated": true
+  },
+  {
+    "id": "powertoys",
+    "name": "PowerToys",
+    "developer": "Microsoft",
+    "category": "系统工具",
+    "icon": "Wrench",
+    "iconGradient": "from-blue-400 to-indigo-400",
+    "iconImage": "icons/powertoys.png",
+    "rating": 4.8,
+    "ratingCount": 390000,
+    "downloads": "6200 万",
+    "size": "90 MB",
+    "version": "0.90.1",
+    "description": "微软官方效率工具集",
+    "longDescription": "PowerToys 是微软官方出品的 Windows 效率工具集合，包含窗口布局、颜色选择器、批量重命名、鼠标增强等实用功能，为高级用户提供系统级增强能力。",
+    "features": [
+      "FancyZones 窗口布局",
+      "颜色选择器",
+      "批量重命名",
+      "键盘管理器"
+    ],
+    "tags": [
+      "效率",
+      "微软官方",
+      "系统增强"
+    ],
+    "systemRequirements": [
+      "Windows 10 / 11（64 位）",
+      "4 GB 内存以上"
+    ],
+    "releaseDate": "2026-07-25",
+    "updateLog": [
+      {
+        "version": "0.90.1",
+        "date": "2026-07-25",
+        "notes": [
+          "新增工具模块",
+          "修复已知问题"
+        ]
+      },
+      {
+        "version": "0.87.0",
+        "date": "2026-03-20",
+        "notes": [
+          "界面改版优化"
+        ]
+      }
+    ],
+    "screenshots": [
+      {
+        "title": "工具总览",
+        "gradient": "from-blue-400/60 to-indigo-300/60"
+      },
+      {
+        "title": "窗口布局",
+        "gradient": "from-indigo-400/60 to-blue-300/60"
+      },
+      {
+        "title": "批量重命名",
+        "gradient": "from-blue-300/60 to-sky-300/60"
+      }
+    ],
+    "isCurated": true
+  },
+  {
+    "id": "telegram",
+    "name": "Telegram",
+    "developer": "Telegram FZ-LLC",
+    "category": "网络",
+    "icon": "Send",
+    "iconGradient": "from-sky-400 to-blue-400",
+    "iconImage": "icons/telegram.png",
+    "rating": 4.8,
+    "ratingCount": 760000,
+    "downloads": "1.5 亿",
+    "size": "60 MB",
+    "version": "11.8.2",
+    "description": "快速安全的即时通讯软件",
+    "longDescription": "Telegram 以速度和安全著称，支持端到端加密聊天、超大型群组和频道、云同步以及丰富的机器人生态，是团队协作和内容分发的利器。",
+    "features": [
+      "端到端加密",
+      "超大群组与频道",
+      "多端云同步",
+      "机器人平台"
+    ],
+    "tags": [
+      "通讯",
+      "加密",
+      "云同步"
+    ],
+    "systemRequirements": [
+      "Windows 10 / 11（64 位）",
+      "2 GB 内存以上"
+    ],
+    "releaseDate": "2026-08-05",
+    "updateLog": [
+      {
+        "version": "11.8.2",
+        "date": "2026-08-05",
+        "notes": [
+          "新增消息翻译",
+          "性能优化"
+        ]
+      },
+      {
+        "version": "11.4.0",
+        "date": "2026-03-28",
+        "notes": [
+          "视频消息改进"
+        ]
+      }
+    ],
+    "screenshots": [
+      {
+        "title": "聊天界面",
+        "gradient": "from-sky-400/60 to-blue-300/60"
+      },
+      {
+        "title": "频道浏览",
+        "gradient": "from-blue-400/60 to-sky-300/60"
+      },
+      {
+        "title": "设置中心",
+        "gradient": "from-sky-300/60 to-cyan-300/60"
+      }
+    ]
+  },
+  {
+    "id": "wechat",
+    "name": "微信",
+    "developer": "腾讯",
+    "category": "社交",
+    "icon": "MessageCircle",
+    "iconGradient": "from-emerald-400 to-green-400",
+    "iconImage": "icons/wechat.png",
+    "rating": 4.6,
+    "ratingCount": 2350000,
+    "downloads": "6.2 亿",
+    "size": "200 MB",
+    "version": "4.0.2",
+    "description": "国民级即时通讯与社交软件",
+    "longDescription": "微信是集聊天、朋友圈、支付、小程序于一体的国民应用，Windows 客户端支持多端消息同步、文件传输和视频会议，是日常沟通与办公协作的必备软件。",
+    "features": [
+      "多端消息同步",
+      "文件与截图发送",
+      "视频通话",
+      "小程序支持"
+    ],
+    "tags": [
+      "社交",
+      "通讯",
+      "腾讯"
+    ],
+    "systemRequirements": [
+      "Windows 10 / 11（64 位）",
+      "2 GB 内存以上"
+    ],
+    "releaseDate": "2026-07-18",
+    "updateLog": [
+      {
+        "version": "4.0.2",
+        "date": "2026-07-18",
+        "notes": [
+          "修复消息同步问题",
+          "界面优化"
+        ]
+      },
+      {
+        "version": "3.9.12",
+        "date": "2026-01-06",
+        "notes": [
+          "稳定性提升"
+        ]
+      }
+    ],
+    "screenshots": [
+      {
+        "title": "聊天界面",
+        "gradient": "from-emerald-400/60 to-green-300/60"
+      },
+      {
+        "title": "通讯录",
+        "gradient": "from-green-400/60 to-emerald-300/60"
+      },
+      {
+        "title": "文件传输",
+        "gradient": "from-emerald-300/60 to-teal-300/60"
+      }
+    ],
+    "isHot": true
+  },
+  {
+    "id": "qq",
+    "name": "QQ",
+    "developer": "腾讯",
+    "category": "社交",
+    "icon": "Speech",
+    "iconGradient": "from-blue-400 to-cyan-400",
+    "iconImage": "icons/qq.png",
+    "rating": 4.5,
+    "ratingCount": 1480000,
+    "downloads": "3.8 亿",
+    "size": "180 MB",
+    "version": "9.9.18",
+    "description": "经典即时通讯软件",
+    "longDescription": "QQ 是腾讯经典的即时通讯软件，支持文字、语音、视频聊天和远程协助，新版 NT 架构带来更流畅的体验，承载了无数人的青春回忆。",
+    "features": [
+      "多人群聊与讨论组",
+      "远程协助",
+      "文件传输",
+      "个性化装扮"
+    ],
+    "tags": [
+      "社交",
+      "通讯",
+      "腾讯"
+    ],
+    "systemRequirements": [
+      "Windows 10 / 11（64 位）",
+      "2 GB 内存以上"
+    ],
+    "releaseDate": "2026-06-28",
+    "updateLog": [
+      {
+        "version": "9.9.18",
+        "date": "2026-06-28",
+        "notes": [
+          "新架构性能优化",
+          "修复兼容问题"
+        ]
+      },
+      {
+        "version": "9.9.9",
+        "date": "2026-02-20",
+        "notes": [
+          "聊天记录备份增强"
+        ]
+      }
+    ],
+    "screenshots": [
+      {
+        "title": "聊天界面",
+        "gradient": "from-blue-400/60 to-cyan-300/60"
+      },
+      {
+        "title": "群管理",
+        "gradient": "from-cyan-400/60 to-blue-300/60"
+      },
+      {
+        "title": "个性装扮",
+        "gradient": "from-blue-300/60 to-indigo-300/60"
+      }
+    ]
+  },
+  {
+    "id": "discord",
+    "name": "Discord",
+    "developer": "Discord Inc.",
+    "category": "社交",
+    "icon": "Headphones",
+    "iconGradient": "from-indigo-400 to-violet-400",
+    "iconImage": "icons/discord.png",
+    "rating": 4.7,
+    "ratingCount": 640000,
+    "downloads": "1.1 亿",
+    "size": "100 MB",
+    "version": "1.0.9250",
+    "description": "游戏玩家与社区的语音平台",
+    "longDescription": "Discord 是面向游戏玩家和兴趣社区的语音与文字通讯平台，支持高品质语音频道、屏幕共享、服务器管理和丰富的机器人生态。",
+    "features": [
+      "低延迟语音频道",
+      "屏幕共享",
+      "服务器管理",
+      "机器人生态"
+    ],
+    "tags": [
+      "语音",
+      "社区",
+      "游戏"
+    ],
+    "systemRequirements": [
+      "Windows 10 / 11（64 位）",
+      "2 GB 内存以上"
+    ],
+    "releaseDate": "2026-07-12",
+    "updateLog": [
+      {
+        "version": "1.0.9250",
+        "date": "2026-07-12",
+        "notes": [
+          "语音质量优化",
+          "界面改进"
+        ]
+      },
+      {
+        "version": "1.0.9120",
+        "date": "2026-03-02",
+        "notes": [
+          "修复连接问题"
+        ]
+      }
+    ],
+    "screenshots": [
+      {
+        "title": "语音频道",
+        "gradient": "from-indigo-400/60 to-violet-300/60"
+      },
+      {
+        "title": "服务器列表",
+        "gradient": "from-violet-400/60 to-indigo-300/60"
+      },
+      {
+        "title": "语音设置",
+        "gradient": "from-indigo-300/60 to-purple-300/60"
+      }
+    ]
+  },
+  {
+    "id": "steam",
+    "name": "Steam",
+    "developer": "Valve",
+    "category": "娱乐",
+    "icon": "Gamepad2",
+    "iconGradient": "from-blue-500 to-slate-500",
+    "iconImage": "icons/steam.png",
+    "rating": 4.6,
+    "ratingCount": 1120000,
+    "downloads": "2.3 亿",
+    "size": "150 MB",
+    "version": "3.9.5",
+    "description": "全球最大的 PC 游戏平台",
+    "longDescription": "Steam 是全球最大的 PC 游戏分发与社区平台，提供数万款游戏的购买、下载、更新与云存档服务，还包含创意工坊、好友系统和直播功能。",
+    "features": [
+      "海量游戏库",
+      "云存档与成就",
+      "创意工坊",
+      "好友与社区"
+    ],
+    "tags": [
+      "游戏",
+      "平台",
+      "社区"
+    ],
+    "systemRequirements": [
+      "Windows 10 / 11（64 位）",
+      "4 GB 内存以上"
+    ],
+    "releaseDate": "2026-08-08",
+    "updateLog": [
+      {
+        "version": "3.9.5",
+        "date": "2026-08-08",
+        "notes": [
+          "库界面优化",
+          "下载加速"
+        ]
+      },
+      {
+        "version": "3.8.2",
+        "date": "2026-04-18",
+        "notes": [
+          "新增家庭共享改进"
+        ]
+      }
+    ],
+    "screenshots": [
+      {
+        "title": "游戏库",
+        "gradient": "from-blue-500/60 to-slate-400/60"
+      },
+      {
+        "title": "商店首页",
+        "gradient": "from-slate-500/60 to-blue-400/60"
+      },
+      {
+        "title": "社区页面",
+        "gradient": "from-blue-400/60 to-slate-300/60"
+      }
+    ],
+    "isHot": true
+  },
+  {
+    "id": "wps",
+    "name": "WPS Office",
+    "developer": "金山办公",
+    "category": "办公",
+    "icon": "Presentation",
+    "iconGradient": "from-rose-400 to-orange-300",
+    "iconImage": "icons/wps.png",
+    "rating": 4.6,
+    "ratingCount": 1380000,
+    "downloads": "3.5 亿",
+    "size": "250 MB",
+    "version": "12.1.0",
+    "description": "国民级办公套件",
+    "longDescription": "WPS Office 集文字、表格、演示于一体，兼容 Microsoft Office 格式，提供云文档、PDF 转换和丰富的模板资源，是个人与团队办公的得力助手。",
+    "features": [
+      "文字表格演示三合一",
+      "完美兼容 Office 格式",
+      "云文档同步",
+      "海量模板"
+    ],
+    "tags": [
+      "办公",
+      "文档",
+      "云同步"
+    ],
+    "systemRequirements": [
+      "Windows 10 / 11（64 位）",
+      "4 GB 内存以上"
+    ],
+    "releaseDate": "2026-07-20",
+    "updateLog": [
+      {
+        "version": "12.1.0",
+        "date": "2026-07-20",
+        "notes": [
+          "AI 写作功能增强",
+          "性能优化"
+        ]
+      },
+      {
+        "version": "11.8.2",
+        "date": "2026-01-30",
+        "notes": [
+          "PDF 处理升级"
+        ]
+      }
+    ],
+    "screenshots": [
+      {
+        "title": "文字文档",
+        "gradient": "from-rose-400/60 to-orange-300/60"
+      },
+      {
+        "title": "演示文稿",
+        "gradient": "from-orange-400/60 to-rose-300/60"
+      },
+      {
+        "title": "云文档",
+        "gradient": "from-rose-300/60 to-amber-300/60"
+      }
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "photoshop",
+    "name": "Adobe Photoshop",
+    "developer": "Adobe",
+    "category": "图形设计",
+    "icon": "Palette",
+    "iconGradient": "from-sky-500 to-blue-500",
+    "iconImage": "icons/photoshop.png",
+    "rating": 4.8,
+    "ratingCount": 860000,
+    "downloads": "4200 万",
+    "size": "2.5 GB",
+    "version": "26.5.0",
+    "description": "行业标准图像处理软件",
+    "longDescription": "Adobe Photoshop 是图像处理与数字艺术领域的行业标准，提供专业的图层编辑、调色、合成与 AI 生成能力，被设计师、摄影师和创作者广泛使用。",
+    "features": [
+      "专业图层系统",
+      "AI 智能填充与生成",
+      "强大的调色工具",
+      "海量滤镜与插件"
+    ],
+    "tags": [
+      "图像处理",
+      "设计",
+      "Adobe"
+    ],
+    "systemRequirements": [
+      "Windows 10 / 11（64 位）",
+      "8 GB 内存",
+      "支持 DirectX 12 的显卡"
+    ],
+    "releaseDate": "2026-06-15",
+    "updateLog": [
+      {
+        "version": "26.5.0",
+        "date": "2026-06-15",
+        "notes": [
+          "AI 工具增强",
+          "性能提升"
+        ]
+      },
+      {
+        "version": "26.0.0",
+        "date": "2026-01-25",
+        "notes": [
+          "全新生成式填充"
+        ]
+      }
+    ],
+    "screenshots": [
+      {
+        "title": "编辑工作区",
+        "gradient": "from-sky-500/60 to-blue-400/60"
+      },
+      {
+        "title": "图层管理",
+        "gradient": "from-blue-500/60 to-sky-400/60"
+      },
+      {
+        "title": "AI 生成工具",
+        "gradient": "from-sky-400/60 to-indigo-300/60"
+      }
+    ],
+    "isCurated": true
+  },
+  {
+    "id": "neteasemusic",
+    "name": "网易云音乐",
+    "developer": "网易",
+    "category": "音频",
+    "icon": "Music",
+    "iconGradient": "from-red-400 to-rose-400",
+    "iconImage": "icons/neteasemusic.png",
+    "rating": 4.7,
+    "ratingCount": 920000,
+    "downloads": "1.7 亿",
+    "size": "90 MB",
+    "version": "3.3.0",
+    "description": "发现好音乐的音娱社区",
+    "longDescription": "网易云音乐以音乐社交与个性化推荐著称，拥有海量曲库、高质量歌单和社区动态，支持桌面端与移动端同步，是年轻用户喜爱的音乐平台。",
+    "features": [
+      "个性化每日推荐",
+      "海量歌单与电台",
+      "音乐社区动态",
+      "歌词与 MV 支持"
+    ],
+    "tags": [
+      "音乐",
+      "歌单",
+      "社区"
+    ],
+    "systemRequirements": [
+      "Windows 10 / 11（64 位）",
+      "2 GB 内存以上"
+    ],
+    "releaseDate": "2026-07-05",
+    "updateLog": [
+      {
+        "version": "3.3.0",
+        "date": "2026-07-05",
+        "notes": [
+          "推荐算法优化",
+          "界面焕新"
+        ]
+      },
+      {
+        "version": "3.1.2",
+        "date": "2026-02-18",
+        "notes": [
+          "修复播放问题"
+        ]
+      }
+    ],
+    "screenshots": [
+      {
+        "title": "每日推荐",
+        "gradient": "from-red-400/60 to-rose-300/60"
+      },
+      {
+        "title": "歌单广场",
+        "gradient": "from-rose-400/60 to-red-300/60"
+      },
+      {
+        "title": "正在播放",
+        "gradient": "from-red-300/60 to-pink-300/60"
+      }
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "huorong",
+    "name": "火绒安全",
+    "developer": "火绒安全",
+    "category": "安全",
+    "icon": "ShieldCheck",
+    "iconGradient": "from-teal-400 to-emerald-400",
+    "iconImage": "icons/huorong.png",
+    "rating": 4.8,
+    "ratingCount": 410000,
+    "downloads": "5800 万",
+    "size": "40 MB",
+    "version": "6.0.5",
+    "description": "安静可靠的国产安全软件",
+    "longDescription": "火绒安全是一款轻量、安静的国产安全防护软件，提供病毒查杀、弹窗拦截、漏洞修复和隐私保护能力，无广告打扰，是口碑极佳的系统防护工具。",
+    "features": [
+      "实时病毒防护",
+      "弹窗广告拦截",
+      "漏洞修复",
+      "无广告纯净体验"
+    ],
+    "tags": [
+      "安全",
+      "杀毒",
+      "国产"
+    ],
+    "systemRequirements": [
+      "Windows 10 / 11（32/64 位）",
+      "1 GB 内存以上"
+    ],
+    "releaseDate": "2026-06-22",
+    "updateLog": [
+      {
+        "version": "6.0.5",
+        "date": "2026-06-22",
+        "notes": [
+          "查杀引擎升级",
+          "界面优化"
+        ]
+      },
+      {
+        "version": "5.0.77",
+        "date": "2026-01-10",
+        "notes": [
+          "修复已知问题"
+        ]
+      }
+    ],
+    "screenshots": [
+      {
+        "title": "防护中心",
+        "gradient": "from-teal-400/60 to-emerald-300/60"
+      },
+      {
+        "title": "病毒查杀",
+        "gradient": "from-emerald-400/60 to-teal-300/60"
+      },
+      {
+        "title": "弹窗拦截",
+        "gradient": "from-teal-300/60 to-cyan-300/60"
+      }
+    ],
+    "isCurated": true
+  }
+]
