@@ -54,25 +54,30 @@
     ],
     "screenshots": [
       {
-        "title": "代码编辑界面",
-        "gradient": "from-sky-400/70 to-cyan-300/70"
+        "url": "/uploads/1790246162563-180960.png",
+        "title": "17a2fae5abe39d27055154e97a838da7"
       },
       {
-        "title": "扩展市场",
-        "gradient": "from-blue-400/60 to-sky-300/70"
+        "url": "/uploads/1790246162581-16278.png",
+        "title": "619a50bf441cdeefa0254c6c3bac25bd"
       },
       {
-        "title": "调试运行",
-        "gradient": "from-cyan-400/60 to-teal-300/60"
+        "url": "/uploads/1790246162578-180820.png",
+        "title": "d9f0e2007bb408a8e05b82e2e52d7ff8"
+      },
+      {
+        "url": "/uploads/1790246162583-383036.png",
+        "title": "c6268bc59051d784fc433668a5bc2e41"
       }
     ],
     "isHot": true,
+    "isNew": false,
     "isFeatured": true,
     "isCurated": true
   },
   {
     "id": "git",
-    "name": "Git1",
+    "name": "Git",
     "developer": "Git Project",
     "category": "开发",
     "icon": "GitBranch",
@@ -118,11 +123,21 @@
         ]
       }
     ],
-    "screenshots": [],
-    "isHot": true,
-    "isNew": false,
-    "isFeatured": false,
-    "isCurated": false
+    "screenshots": [
+      {
+        "title": "命令行操作",
+        "gradient": "from-orange-400/60 to-amber-300/60"
+      },
+      {
+        "title": "分支管理",
+        "gradient": "from-amber-400/60 to-yellow-300/60"
+      },
+      {
+        "title": "协作流程",
+        "gradient": "from-orange-300/60 to-rose-300/60"
+      }
+    ],
+    "isHot": true
   },
   {
     "id": "python",
