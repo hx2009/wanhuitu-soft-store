@@ -1,0 +1,74 @@
+[
+  {
+    "id": "office",
+    "name": "办公",
+    "color": "from-rose-400 to-orange-300",
+    "desc": "文档处理、效率办公"
+  },
+  {
+    "id": "dev",
+    "name": "开发",
+    "color": "from-sky-400 to-cyan-400",
+    "desc": "编程、代码与开发工具"
+  },
+  {
+    "id": "system",
+    "name": "系统工具",
+    "color": "from-blue-400 to-indigo-400",
+    "desc": "系统增强与优化"
+  },
+  {
+    "id": "design",
+    "name": "图形设计",
+    "color": "from-sky-500 to-blue-500",
+    "desc": "绘图、图像与设计"
+  },
+  {
+    "id": "video",
+    "name": "视频",
+    "color": "from-orange-400 to-amber-300",
+    "desc": "播放、录制与剪辑"
+  },
+  {
+    "id": "audio",
+    "name": "音频",
+    "color": "from-red-400 to-rose-400",
+    "desc": "音乐播放与处理"
+  },
+  {
+    "id": "network",
+    "name": "网络",
+    "color": "from-cyan-400 to-sky-400",
+    "desc": "网络通讯与传输"
+  },
+  {
+    "id": "browser",
+    "name": "浏览器",
+    "color": "from-teal-400 to-cyan-400",
+    "desc": "网页浏览工具"
+  },
+  {
+    "id": "security",
+    "name": "安全",
+    "color": "from-teal-400 to-emerald-400",
+    "desc": "防护与隐私安全"
+  },
+  {
+    "id": "archive",
+    "name": "压缩",
+    "color": "from-amber-400 to-orange-300",
+    "desc": "压缩与解压工具"
+  },
+  {
+    "id": "fun",
+    "name": "娱乐",
+    "color": "from-blue-500 to-slate-500",
+    "desc": "游戏与娱乐平台"
+  },
+  {
+    "id": "utils",
+    "name": "实用工具",
+    "color": "from-stone-400 to-slate-400",
+    "desc": "效率提升小工具"
+  }
+]
