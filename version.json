@@ -2,9 +2,10 @@
   "version": "1.1.2",
   "notes": [
     "优化了系统更新和bug",
-    "测试新功能"
+    "测试新功能",
+    "测试功能"
   ],
   "downloadUrl": "https://github.com/hx2009/wanhuitu-soft-store/releases/tag/v1.1.2",
   "force": false,
-  "publishedAt": "2026-09-25T07:06:44.665Z"
+  "publishedAt": "2026-09-25T07:28:22.218Z"
 }
