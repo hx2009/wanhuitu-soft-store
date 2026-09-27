@@ -5,9 +5,9 @@
     "测试新功能",
     "测试在线升级功能"
   ],
-  "downloadUrl": "https://github.com/hx2009/wanhuitu-soft-store/releases/tag/v1.1.4",
-  "setupUrl": "",
-  "zipUrl": "",
+  "downloadUrl": "https://hx2009.github.io/wanhuitu-soft-store/download.html",
+  "setupUrl": "https://github.com/hx2009/wanhuitu-soft-store/releases/download/v1.1.4/-1.1.4-Setup.exe",
+  "zipUrl": "https://github.com/hx2009/wanhuitu-soft-store/releases/download/v1.1.4/-1.1.4-.zip",
   "force": false,
-  "publishedAt": "2026-09-27T01:03:26.336Z"
+  "publishedAt": "2026-09-27T01:16:18.194Z"
 }
