@@ -3,11 +3,11 @@
   "notes": [
     "优化了系统更新和bug",
     "测试新功能",
-    "测试功能"
+    "测试在线升级功能"
   ],
   "downloadUrl": "https://github.com/hx2009/wanhuitu-soft-store/releases/tag/v1.1.4",
   "setupUrl": "",
   "zipUrl": "",
   "force": false,
-  "publishedAt": "2026-09-25T07:54:56.135Z"
+  "publishedAt": "2026-09-27T01:03:26.336Z"
 }
